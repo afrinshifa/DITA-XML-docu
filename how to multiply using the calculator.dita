@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vnz_q43_sxb">
+    <title><u>how to multiply using the calculator</u></title>
+    <shortdesc><i>Here you will find the instruction of multiply feature in JPS calculator
+        app.</i></shortdesc>
+    <taskbody>
+        <prereq id="prereq_hy4_hp3_sxb">
+            <ol id="ol_lqx_3p3_sxb">
+                <li><i>Basic knowledge of using a calculator application on your device.</i></li>
+                <li><i>A pre-existing monthly budget plan with the current expense amounts.</i></li>
+            </ol>
+        </prereq>
+        <context>
+            <p><i>Multiply your monthly expenses by a specific factor, such as a percentage increase
+                    or a change in quantity, to update your budget plan using a calculator
+                    application.</i></p>
+        </context>
+        <steps>
+            <step>
+                <cmd><i>Launch the calculator application on your device.</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Identify the expenses you want to multiply by a factor.</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Determine the factor to be applied (e.g., percentage increase, change in
+                        quantity)</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Enter the original expense amount into the calculator</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Select the multiplication symbol (typically represented by "x" or "×") on
+                        the calculator.</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Enter the factor value into the calculator.</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Press the "=" button to calculate the new expense amount</i></cmd>
+            </step>
+        </steps>
+        <result id="result_xdb_bq3_sxb"><i>The result from the multiplication is
+            displayed.</i></result>
+        <example id="example_tqt_dq3_sxb">
+            <p><i>Let's consider the following scenario:</i></p>
+            <p><i>Original Expense: $500 Factor: 1.1 (10% increase)</i></p>
+            <ol id="ol_at4_2q3_sxb">
+                <li><i>Launch the calculator application.</i></li>
+                <li><i>Enter the original expense amount, which is $500.</i></li>
+                <li><i>Press the multiplication symbol.</i></li>
+                <li><i>Enter the factor value, which is 1.1 for a 10% increase.</i></li>
+                <li><i>Press the "=" button.</i></li>
+            </ol>
+            <p><i><b>Result: </b>The calculator application will display the new expense amount,
+                    which in this case is $550. Therefore, after applying a 10% increase, the new
+                    expense amount is $550.</i></p>
+        </example>
+    </taskbody>
+</task>

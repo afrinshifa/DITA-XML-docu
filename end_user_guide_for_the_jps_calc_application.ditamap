@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End-User Guide for the JPS Calc Application</title>
+    <topichead navtitle="Sum up">
+        <topicref href="questions_in_sum_up_concept.dita"/>
+        <topicref href="how_to_sum_up_using_the_calculator.dita"/>
+    </topichead>
+    <topichead navtitle="Subtract">
+        <topicref href="qu.dita"/>
+        <topicref href="how_to_subtract_using_the_calculator.dita"/>
+    </topichead>
+    <topichead navtitle="Multiply">
+        <topicref href="questions_in_multiply_concept.dita"/>
+        <topicref href="how%20to%20multiply%20using%20the%20calculator.dita"/>
+    </topichead>
+    <topichead navtitle="Divide">
+        <topicref href="questions_in_division_concept.dita"/>
+        <topicref href="how%20to%20divide%20using%20the%20calculator.dita"/>
+    </topichead>
+</map>

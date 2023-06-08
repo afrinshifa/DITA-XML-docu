@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="qu">
+    <title><u>Questions in subtract concept</u></title>
+    <shortdesc><i>Here you will find few questions related to subtract feature in JPS calculator
+            app.</i></shortdesc>
+    <conbody>
+        <p><b>1.</b><b> What is the concept of subtraction in math?</b></p>
+        <p><i>In math, subtraction is the process of taking one number away from another to find the
+                difference between them. It involves removing or subtracting a quantity from a given
+                value. The result of a subtraction operation is called the difference. Subtraction
+                is often used to compare two quantities or find the remaining amount after taking
+                away a certain value. For example, if you have 10 apples and you eat 3, the
+                subtraction operation of 10 minus 3 would give you a difference of 7, indicating
+                that you have 7 apples remaining.</i></p>
+        <p><b>2.How can I subtract numbers using a calculator application?</b></p>
+        <p><i>To subtract numbers using a calculator application, enter the first number, then press
+                the "-" button, and finally enter the second number. Press the "=" button to obtain
+                the difference between the two numbers.</i></p>
+        <p><b>3.Can JPS  calculator application handle negative numbers in subtraction?</b></p>
+        <p><i>Yes,  JPS calculator application can handle negative numbers in subtraction. Simply
+                enter the negative number using the appropriate button or symbol (-) on the
+                calculator, and follow the same steps as subtracting positive numbers to obtain the
+                correct difference.</i></p>
+    </conbody>
+</concept>

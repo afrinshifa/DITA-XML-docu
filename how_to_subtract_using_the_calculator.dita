@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_subtract_using_the_calculator">
+    <title><u>How to subtract using the calculator</u></title>
+    <shortdesc><i>Here you will find the instruction of subtraction feature in JPS calculator
+            app.</i></shortdesc>
+    <taskbody>
+        <prereq id="prereq_uck_rm3_sxb">
+            <ol>
+                <li><i>Ensure you have accurate information on your monthly income and
+                    expenses.</i></li>
+                <li><i>Have a calculator application installed and ready to use on your
+                    device.</i></li>
+                <li><i>Allocate some uninterrupted time to complete the task effectively.</i></li>
+            </ol>
+        </prereq>
+        <context><i> Create a monthly budget plan by calculating your income, expenses, and savings
+                using a calculator application.</i></context>
+        <steps>
+            <step>
+                <cmd><i>Subtract the total monthly expenses from the total monthly income.</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Enter the total income amount into the calculator, press the "-" button, and
+                        enter the total expense amount.</i></cmd>
+            </step>
+            <step>
+                <cmd><i> Press the "=" button to get the monthly savings amount.</i></cmd>
+            </step>
+        </steps>
+        <result id="result_esg_3n3_sxb"><i>The result from the subtraction is
+            displayed.</i></result>
+        <example id="example_pc5_pn3_sxb">
+            <p><i>Let's consider the following scenario:</i></p>
+            <p><i>Total Monthly Income: $5,000 Total Monthly Expenses: $3,500</i></p>
+            <ol id="ol_rkm_g43_sxb">
+                <li><i>Launch the calculator application.</i></li>
+                <li><i>Enter the total income amount, which is $5,000.</i></li>
+                <li><i>Press the "-" button.</i></li>
+                <li><i>Enter the total expense amount, which is $3,500.</i></li>
+                <li><i>Press the "=" button.</i></li>
+            </ol>
+            <p><b><i>Result</i></b>: <i>The calculator application will display the monthly savings,
+                    which in this case is $1,500. Therefore, the monthly savings from the given
+                    example is $1,500.</i></p>
+        </example>
+    </taskbody>
+</task>

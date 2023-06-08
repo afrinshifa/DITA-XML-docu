@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_sum_up_using_the_calculator">
+    <title><u>How to sum up using the calculator</u></title>
+    <shortdesc><i>here you will find instruction about sum up feature of JPS calculator
+        app.</i></shortdesc>
+    <taskbody>
+        <prereq id="prereq_bxv_bkf_sxb">
+            <ol id="ol_kdg_dkf_sxb">
+                <li><i>Ensure you have accurate information on your monthly income and
+                    expenses.</i></li>
+                <li><i>Have a calculator application installed and ready to use on your
+                    device.</i></li>
+                <li><i>Allocate some uninterrupted time to complete the task effectively</i>.</li>
+            </ol>
+        </prereq>
+        <context>
+            <p><i> Create a monthly budget plan by calculating your income, expenses, and savings
+                    using a calculator application.</i></p>
+        </context>
+        <steps id="steps_c5l_2kf_sxb">
+            <step>
+                <cmd><i>Add up all the sources of income you receivemonthly,such as
+                        salary,freelancing earning and rential income.</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Enter the individual amount into thecalculator and press"+" button after
+                        each entry.</i></cmd>
+            </step>
+            <step>
+                <cmd><i>Once you have entered all the incoming amounts,press"=" button to get the
+                        total of monthly income.</i></cmd>
+            </step>
+        </steps>
+        <result id="result_n2y_nn3_sxb"><i>the result from the sum up is displayed.</i></result>
+        <example id="example_yhh_plf_sxb">
+            <p><i>Let's assume the following scenario:</i></p>
+            <ul id="ul_md4_qlf_sxb">
+                <li><i>Salary: $2,500</i></li>
+                <li><i>Freelance earnings: $800</i></li>
+                <li><i>Rental income: $600</i></li>
+            </ul>
+            <ol id="ol_nd4_qlf_sxb">
+                <li><i>Launch the calculator application.</i></li>
+                <li><i>Enter the first income amount, which is the salary of $2,500.</i></li>
+                <li><i>Press the "+" button.</i></li>
+                <li><i>Enter the second income amount, which is the freelance earnings of
+                    $800.</i></li>
+                <li><i>Press the "+" button.</i></li>
+                <li><i>Enter the third income amount, which is the rental income of $600.</i></li>
+                <li><i>Press the "=" button.</i></li>
+            </ol>
+            <p><i><b>Result</b>: The calculator application will display the total monthly income,
+                    which in this case is $3,900. Therefore, the total monthly income from salary,
+                    freelance earnings, and rental income is $3,900.</i></p>
+        </example>
+    </taskbody>
+</task>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="questions_in_division_concept">
+    <title><u>Questions in division concept</u></title>
+    <shortdesc><i>Here you will find few questions related to division feature in JPS calculator
+            app.</i></shortdesc>
+    <conbody>
+        <p><b>1. What is the concept of division in math?</b></p>
+        <p><i>In math, division is the process of splitting a quantity or value into equal parts or
+                groups. It involves dividing one number by another to find the quotient or the
+                result of the division operation. Division is used to distribute or allocate values
+                proportionally or to determine the quantity of each part when a total is divided
+                equally. For example, dividing 10 by 2 would give you a quotient of 5, indicating
+                that 10 can be evenly split into two groups, with each group having a value of
+                5.</i></p>
+        <p><b>2. How can I divide numbers using a calculator application?</b></p>
+        <p><i>To divide numbers using a calculator application, enter the dividend (the number being
+                divided), then press the division symbol ("/" or "÷") to indicate division, and
+                finally enter the divisor (the number you are dividing by). Press the "=" button to
+                obtain the quotient or the result of the division operation.</i></p>
+        <p><b>3.Can JPS calculator application handle dividing decimal numbers?</b></p>
+        <p><i>Yes, JPS calculator application can handle dividing decimal numbers. Simply enter the
+                decimal numbers using the appropriate decimal point button on the calculator, press
+                the division symbol ("/" or "÷"), and then enter the divisor. Press "=" to obtain
+                the quotient. The calculator will accurately perform the division operation,
+                including with decimal numbers, providing the precise quotient.</i></p>
+    </conbody>
+</concept>

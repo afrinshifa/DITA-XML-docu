@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="questions_in_sum_up_concept">
+    <title><u>Questions in sum up concept</u></title>
+    <shortdesc><i>Here you will find few questions related to sum up feature in JPS calculator
+            app.</i></shortdesc>
+    <conbody>
+        <p><b>1.What is the concept of summing up in math?</b></p>
+        <p><i> In math, the concept of summing up refers to the process of combining or adding
+                numbers together to find their total or sum. It involves adding two or more numbers
+                to obtain a result known as the sum. This concept is commonly used to find the total
+                value of a set of numbers or to perform basic arithmetic operations like addition.
+                For example, if you have the numbers 2, 4, and 6, summing them up would give you a
+                total of 12.</i></p>
+        <p><b>2.How can I quickly calculate the sum of multiple numbers using a calculator
+                application?</b></p>
+        <p><i>To calculate the sum of multiple numbers using a calculator application, enter the
+                numbers one by one into the calculator, pressing the "+" button after each entry.
+                Once all the numbers are entered, press the "=" button to get the total sum.</i></p>
+        <p><b>3.Can I use JPS calculator application to add up decimal numbers?</b></p>
+        <p><i> Yes JPS calculator application can handle decimal numbers as well. Simply enter the
+                decimal numbers using the appropriate decimal point button on the calculator, press
+                the "+" button between the numbers, and then press "=" to obtain the sum of the
+                decimal numbers.</i></p>
+    </conbody>
+</concept>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="questions_in_multiply_concept">
+    <title><u>Questions in multiply concept</u></title>
+    <shortdesc><i>Here you will find few questions related to multiply feature in JPS calculator
+            app.</i></shortdesc>
+    <conbody>
+        <p>1. <b>What is the concept of multiplication in math?</b></p>
+        <p><i> In math, multiplication is the process of combining or scaling numbers to find the
+                total value of repeated additions. It involves multiplying two or more numbers to
+                obtain a result known as the product. Multiplication is used to find the total
+                quantity when the same value is repeated multiple times or to determine the result
+                of scaling one value by another. For example, multiplying 3 by 4 would give you a
+                product of 12, indicating that you have three sets of four, resulting in a total of
+                twelve.</i></p>
+        <p>2. <b>How can I multiply numbers using a calculator application?</b></p>
+        <p><i>To multiply numbers using a calculator application, enter the first number, then press
+                the "x" or "*" button (depending on the calculator app) to indicate multiplication,
+                and finally enter the second number. Press the "=" button to obtain the product of
+                the two numbers.</i></p>
+        <p>3.<b>Can a JPS calculator application handle multiplying decimal numbers?</b></p>
+        <p><i>Yes, JPS calculator application can handle multiplying decimal numbers. Simply enter
+                the decimal numbers using the appropriate decimal point button on the calculator,
+                press the "x" or "*" button to indicate multiplication, and then press "=" to obtain
+                the product of the decimal numbers. The calculator will accurately perform the
+                multiplication operation with decimals.</i></p>
+    </conbody>
+</concept>
